@@ -17,7 +17,7 @@ In this project I extracted data from an SQL database. I cleaned, transformed an
 ### 6. Completed the starting_with_questions questions
 ### 7. Completed the starting_with_data questions
 ### 8. Developed and executed a QA process
-### 9. 
+### 9. Generated ERD
 
 ## Results
 I discovered that the given data is for an ecommerce site of some kind. The ecommerce database I created has five tables called analytics_clean3, products_clean, salesbysku_clean, salesreport_clean, and sessions_clean2. I learned that the data cleaning process is quite time-consuming and a bit frustrating (for a first-timer at least). While cleaning the data I realised just how important it is to ensure accurate data typing; but while working through starting_with_questions.md, I also realised that even though I tried to be very careful with my data types I still didn't get them all right the first time around. When working through starting_with_questions.md, I honestly felt pretty overwhelmed. I'm super curious to find out if my solutions are correct, I felt that they were all too simple? That maybe I misunderstood the questions?
@@ -38,7 +38,8 @@ I discovered that this data could tell me:
 ### 3. When cleaning the data, I found myself rather overwhelmed and unsure of where to start. I did manage to get into a comfortable groove but now that I've finished the cleaning I can't help but worry about details I might have missed.
 ### 4. For the analytics table, I could not identify a suitable primary key, this had me stumped for a while as I thought that tables required primary keys.
 ### 5. I had difficulty with the starting_with_questions. I'm not fully confident that my queries work as I intended. I'm not sure if this is a confidence issue or if I really am confused.
-### 6. 
+ 
 
 ## Future Goals
-(what would you do if you had more time?)
+If I had more time, I would have loved to go over the data set in more detail with a mentor. Really dig into what each column represents, as I found some of the column names rather ambiguous or unclear.  
+It would also be quite fun to have worked on it with someone else to bounce ideas off of each other. 
